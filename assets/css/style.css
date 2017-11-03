@@ -1,0 +1,41 @@
+
+
+div.one {
+	float: left;
+	color: blue;
+}
+
+div.two {
+	float: right;
+	color: red;
+}
+
+h1 {
+	color: blue;
+}
+
+img.pp {
+	height: 90px;
+	width:150px;
+	float: left;
+	padding: 15px 15px 15px 0px;
+}
+img.s {
+	height: 60px;
+	width: 60px;
+	padding: 5px;
+}
+img.big {
+	height: auto;
+	width: 100%;
+	padding: 15px 0px 15px 0px;
+}
+video {
+	height: auto;
+	width: 100%;
+	padding: 15px 0px 15px 0px;
+}
+iframe {
+	height: 315px;
+	width: 560px;
+}
